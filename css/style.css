@@ -9319,7 +9319,22 @@ textarea.form-control {
   position: relative;
   display: block;
   width: 100%;
-  height: 180px; }
+  height: 220px;
+  background-color: rgba(255, 189, 57, 0.1);
+  border: 1px solid rgba(255, 189, 57, 0.2);
+  border-radius: 8px;
+  transition: all 0.3s ease; }
+
+.block-20:hover {
+  background-color: rgba(255, 189, 57, 0.2);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2); }
+
+.block-20 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px; }
 
 .blog-entry {
   position: relative; }
