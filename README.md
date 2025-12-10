@@ -120,25 +120,14 @@ const krishna = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roycrisses&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 💎 Featured Repositories
 
-<div align="center">
-  
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/roycrisses/portfolio)
-[![Krishna-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=Krishna-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/roycrisses/Krishna-portfolio)
-
-[![webtech-cwt](https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=webtech-cwt&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/roycrisses/webtech-cwt)
-[![pre-made-code-kit-for-ecommerce-website-](https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=pre-made-code-kit-for-ecommerce-website-&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/roycrisses/pre-made-code-kit-for-ecommerce-website-)
-
-</div>
+| 📂 Project | 📝 Description | 🛠️ Tech |
+|:---|:---|:---|
+| **[Portfolio](https://github.com/roycrisses/portfolio)** | Personal Portfolio Website | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **[Krishna-Portfolio](https://github.com/roycrisses/Krishna-portfolio)** | My main portfolio showcasing work | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **[WebTech CWT](https://github.com/roycrisses/webtech-cwt)** | Web Technology projects | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **[Ecommerce Kit](https://github.com/roycrisses/pre-made-code-kit-for-ecommerce-website-)** | Pre-made code kit for e-commerce | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
