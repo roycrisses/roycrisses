@@ -14,18 +14,19 @@
   <a href="https://github.com/roycrisses?tab=followers">
     <img src="https://img.shields.io/github/followers/roycrisses?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers"/>
   </a>
+  <img src="https://img.shields.io/github/stars/roycrisses?label=Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Stars"/>
 </p>
 
 <!-- Social Links -->
 <p>
-  <a href="https://www.linkedin.com/in/roycrisses/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="mailto:krishnakarki@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/roycrisses" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://roycrisses.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -34,7 +35,7 @@
 ---
 
 <!-- About Me Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
 ```typescript
 const krishna = {
@@ -48,34 +49,64 @@ const krishna = {
 };
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" alt="Cat" width="150" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="300" />
 
 - 🔭 Currently working on **innovative web solutions**
 - 🌱 Learning **Cloud Technologies & System Design**
 - 💬 Ask me about **React, Node.js, TypeScript, Next.js**
 - ⚡ Daily motto: *"Learning something new every day!"*
 - 🎯 2025 Goals: **Contribute more to Open Source**
+- 📍 Based in **Nepal** 🇳🇵
+
+<br clear="right"/>
 
 ---
 
 <!-- Tech Stack -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Arsenal
+## 🚀 Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,html,css,react,nextjs,nodejs,express,tailwind&perline=6" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,mongodb,mysql,postgres,firebase,vercel,netlify,figma&perline=6" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### 📚 Currently Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,graphql,redis,prisma,rust&perline=6" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 </div>
@@ -83,7 +114,7 @@ const krishna = {
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roycrisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
@@ -91,7 +122,7 @@ const krishna = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roycrisses&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=roycrisses&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
@@ -102,7 +133,7 @@ const krishna = {
 ---
 
 <!-- Trophies -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=roycrisses&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -111,7 +142,7 @@ const krishna = {
 ---
 
 <!-- Featured Projects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> Featured Projects
+## 💎 Featured Projects
 
 <div align="center">
   <a href="https://github.com/roycrisses/portfolio">
@@ -143,51 +174,45 @@ const krishna = {
 ---
 
 <!-- Quote -->
+## 💭 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-<!-- Snake Animation -->
+<!-- Contribution Snake -->
+## 🐍 Contribution Graph
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <!-- Connect Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
   <p>
     <i>I'm always excited to collaborate on interesting projects and discuss innovative ideas!</i>
   </p>
   
-  <a href="https://www.linkedin.com/in/roycrisses/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
   <a href="https://github.com/roycrisses">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-7f57d920-1600-4e78-8f8c-ff6bc36b868a.png"/>
+    <img src="https://img.shields.io/badge/Follow_Me_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="80" />
   <br/>
-  <i>Thanks for visiting! Have a wonderful day!</i>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+  <i>⭐ Thanks for visiting! Have a wonderful day! ⭐</i>
 </div>
-#   r o y c r i s s e s  
- 
