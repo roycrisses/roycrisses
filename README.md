@@ -25,6 +25,9 @@
   <a href="https://github.com/roycrisses" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://roycrisses.github.io/Krishna-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 </div>
