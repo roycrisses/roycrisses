@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/krishna-karki-a1b566323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://roycrisses.github.io/Krishna-portfolio/" target="_blank">
+  <a href="https://krishnakarki.info.np/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
