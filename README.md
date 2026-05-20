@@ -115,15 +115,15 @@ const krishna = {
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=roycrisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=roycrisses&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycrisses&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roycrisses&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -131,7 +131,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycrisses&l
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=roycrisses&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roycrisses&theme=tokyonight"/>
 
 </div>
 
@@ -140,7 +140,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycrisses&l
 <div align="center">
 
 <img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=roycrisses&theme=tokyo-night"/>
+src="https://activity-graph.herokuapp.com/graph?username=roycrisses&theme=tokyo-night"/>
 
 </div>
 
