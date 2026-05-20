@@ -1,73 +1,83 @@
 <div align="center">
 
-<!-- Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishna%20Karki&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20IT%20Student%20%7C%20Tech%20Enthusiast&descAlignY=52&descSize=18" width="100%"/>
 
-<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Passionate+about+Clean+Code+%26+Innovation+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+🌌;Building+the+Future,+One+Line+at+a+Time+🚀;Passionate+about+Clean+Code+%26+Innovation+✨"/>
 </a>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=roycrisses&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/roycrisses?tab=followers">
-    <img src="https://img.shields.io/github/followers/roycrisses?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Followers"/>
-  </a>
-  <img src="https://img.shields.io/github/stars/roycrisses?label=Stars&style=for-the-badge&color=6366f1&labelColor=1a1b27" alt="Stars"/>
-</p>
+<br><br>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="mailto:contact@krishnakarki.info.np">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/roycrisses" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/krishna-karki-a1b566323/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://krishnakarki.info.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=roycrisses&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
+
+<a href="https://github.com/roycrisses?tab=followers">
+<img src="https://img.shields.io/github/followers/roycrisses?label=Followers&style=for-the-badge&color=6366f1&labelColor=1a1b27"/>
+</a>
+
+<img src="https://img.shields.io/github/stars/roycrisses?style=for-the-badge&label=Stars&color=6366f1&labelColor=1a1b27"/>
+
+<br><br>
+
+<a href="mailto:krishna21karki@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/roycrisses">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-karki-a1b566323/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://krishnakarki.info.np/">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="55%">
 
-```js
+```javascript
 const krishna = {
-  pronouns: "he/him",
-  location: "Kathmandu, Nepal 🇳🇵",
-  education: "B.IT @ Farwestern University",
-  company: "Easy Way Group PVT. Ltd",
-  roles: [
-    "Full Stack Developer",
-    "IT Student",
-    "Tech Enthusiast"
-  ],
-  currentFocus: "Building scalable web apps",
-  funFact: "Every bug is an undocumented feature! 🐛"
+    name:"Krishna Karki",
+    pronouns:"he/him",
+    location:"Nepal 🇳🇵",
+    education:"B.IT Student",
+    
+    roles:[
+        "Full Stack Developer",
+        "IT Student",
+        "Graphic Designer"
+    ],
+
+    currentFocus:"Building scalable web applications",
+
+    funFact:"Every bug is an undocumented feature 🐛"
 };
 ```
 
 </td>
+
 <td width="45%">
 
-- 🔭 Working on **innovative web solutions**
-- 🌱 Learning **Cloud Tech & System Design**
-- 💬 Ask me about **React, Node.js, TypeScript**
-- ⚡ Motto: *"Learn something new daily!"*
-- 🎯 2025: **More Open Source contributions**
-- 📍 Based in **Nepal** 🇳🇵
+🔭 Working on innovative web solutions
+
+🌱 Learning Cloud Technology & System Design
+
+💬 Ask me about React, Node.js, TypeScript
+
+⚡ Motto: "Learn something new daily"
+
+🎯 Goal: More Open Source Contributions
+
+📍 Nepal 🇳🇵
 
 </td>
 </tr>
@@ -75,120 +85,125 @@ const krishna = {
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools & Databases
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roycrisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycrisses&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=roycrisses&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=roycrisses&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=roycrisses&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=roycrisses&theme=tokyonight"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roycrisses&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 💎 Featured Repositories
-
-<!-- 🔥 DYNAMIC WIDGETS -->
-<div align="center">
-  <a href="https://github.com/roycrisses/DEV-mind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=DEV-mind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/roycrisses/llm-context">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=llm-context&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  </a>
-</div>
+<br>
 
 <div align="center">
-  <a href="https://github.com/roycrisses/auralabs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=auralabs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/roycrisses/Vulnerability-Finder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=Vulnerability-Finder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  </a>
-</div>
 
-<br/>
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=roycrisses&theme=tokyo-night"/>
 
-| 📂 Project | 📝 Description | 🛠️ Tech |
-|:---|:---|:---|
-| **[DEV-mind](https://github.com/roycrisses/DEV-mind)** | The Prompt OS for professional developers | ![AI](https://img.shields.io/badge/AI-6366F1?style=flat-square) ![Prompt](https://img.shields.io/badge/Prompting-100000?style=flat-square) |
-| **[llm-context](https://github.com/roycrisses/llm-context)** | Precise context pruning for deep LLM analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-100000?style=flat-square) |
-| **[AuraLabs](https://github.com/roycrisses/auralabs)** | Windows-based AI Operating System | ![AI](https://img.shields.io/badge/AI-6366F1?style=flat-square) ![OS](https://img.shields.io/badge/Systems-2496ED?style=flat-square) |
-| **[Vulnerability-Finder](https://github.com/roycrisses/Vulnerability-Finder)** | Autonomous AI-driven security engine | ![Security](https://img.shields.io/badge/Security-FF6B6B?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-100000?style=flat-square) |
-
----
-
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+# 💎 Featured Repositories
 
 <div align="center">
-  <p><i>I'm always excited to collaborate on interesting projects!</i></p>
-  
-  <a href="https://github.com/roycrisses">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/krishna-karki-a1b566323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contact@krishnakarki.info.np">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
+<a href="https://github.com/roycrisses/DEV-mind">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=DEV-mind&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/roycrisses/llm-context">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=llm-context&theme=tokyonight"/>
+</a>
+
 </div>
 
-<br/>
+---
+
+# 💭 Dev Quote
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </div>
 
+---
+
+# 🤝 Let's Connect
+
 <div align="center">
-  <br/>
-  
-  ![Built with Love](https://img.shields.io/badge/Built%20with-❤️-red?style=for-the-badge)
-  
-  <i>⭐ Thanks for visiting! Have a wonderful day! ⭐</i>
+
+<i>Always excited to collaborate on interesting projects 🚀</i>
+
+<br><br>
+
+<a href="https://github.com/roycrisses">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-karki-a1b566323/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:krishna21karki@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<br><br>
+
+![Built with Love](https://img.shields.io/badge/Built%20with-❤️-red?style=for-the-badge)
+
+⭐ Thanks for visiting ⭐
+
 </div>
