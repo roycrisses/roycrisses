@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=180&section=header&text=Krishna%20Karki&fontSize=42&fontColor=1a1a2e&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20Builder&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=180&section=header&text=Krishna%20Karki&fontSize=42&fontColor=1a1a2e&fontAlignY=32&desc=AI%20Educator%20%7C%20Builder%20%7C%20Developer&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI-driven+SaaS+products+%F0%9F%9A%80;Vibe+Coding%3A+intent-driven+development+%E2%9C%A8;Teaching+the+next+wave+of+AI+builders+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+Educator+%2B+Builder+%2B+Dev+%F0%9F%8E%93;Teaching+the+next+wave+of+AI+builders+%F0%9F%9A%80;Vibe+Coding%3A+intent-driven+development+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <p>
@@ -54,11 +54,11 @@ const krishna = {
 </td>
 <td width="45%">
 
-- 🏫 Designing AI curricula at **SAK Digital University**
-- 🛠️ Building **GitPulse**, **ClipPro**, and **NOVAI**
+- 🎓 **AI Educator** — designing AI curricula at **SAK Digital University**
+- 🛠️ **Builder** — shipping **GitPulse**, **ClipPro**, and **NOVAI**
+- 💻 **Dev** — security + AI tooling in the open: **Vulnerability-Finder**, **AI-Cyber-security**
 - 🧠 Exploring **MoE pruning** and **multi-agent orchestration**
 - 💬 Ask me about **React, Next.js, Supabase, AI agents**
-- 🎯 Previously: Director of IT @ Easy Way Group
 - ⚡ Motto: *"Learn something new daily!"*
 
 </td>
@@ -106,10 +106,6 @@ const krishna = {
   <img src="https://streak-stats.demolab.com?user=roycrisses&theme=catppuccin_latte&hide_border=true&background=FFFFFF&stroke=4F46E5&ring=4F46E5&fire=FF6B6B&currStreakLabel=4F46E5" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roycrisses&bg_color=FFFFFF&color=4F46E5&line=4F46E5&point=1a1a2e&area=true&hide_border=true" width="95%"/>
-</div>
-
 ---
 
 ## 💎 Featured Projects
@@ -155,7 +151,7 @@ const krishna = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <p><i>Always open to collaborating on AI tooling, dev platforms, and education-tech projects.</i></p>
+  <p><i>AI educator, builder, and dev — always open to collaborating on AI tooling, dev platforms, and education-tech projects.</i></p>
 
   <a href="https://github.com/roycrisses">
     <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub"/>
