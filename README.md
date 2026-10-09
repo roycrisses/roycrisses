@@ -17,6 +17,12 @@
 
 *Building AI tooling, dev platforms and education-tech that lasts.*
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=roycrisses&label=visitors&color=6e40c9&style=flat" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/roycrisses?style=flat&label=follow&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/roycrisses?style=flat&label=stars&logo=github" alt="stars"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -29,6 +35,12 @@ Currently, I'm deep into **multi-agent AI systems, LLM security,** and **React +
 sharpening my problem-solving skills through real-world shipping.
 
 My goal is simple: learn something new daily, and build software that lasts.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/glass-focus.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/glass-focus-light.svg"/>
+  <img src="./assets/glass-focus.svg" width="720" alt="Currently: building, learning, teaching"/>
+</picture>
 
 ---
 
@@ -76,6 +88,8 @@ My goal is simple: learn something new daily, and build software that lasts.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake.svg"/>
   <img src="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake-dark.svg" width="100%" alt="Snake eating my contributions"/>
 </picture>
+
+<img src="./assets/glass-orbs.svg" width="360" alt="floating glass orbs"/>
 
 </div>
 

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="110" viewBox="0 0 720 110" role="img" aria-label="floating glass orbs">
+  <defs>
+    <radialGradient id="orbP" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#c4b5fd" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#6e40c9" stop-opacity="0.9"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#bfdbfe" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.9"/>
+    </radialGradient>
+    <radialGradient id="orbK" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#f9a8d4" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.9"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="252" cy="98" rx="34" ry="6" fill="#000000" opacity="0.18"/>
+  <ellipse cx="362" cy="98" rx="26" ry="5" fill="#000000" opacity="0.18"/>
+  <ellipse cx="468" cy="98" rx="30" ry="6" fill="#000000" opacity="0.18"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 -7; 0 7; 0 -7" dur="5s" repeatCount="indefinite"/>
+    <circle cx="252" cy="52" r="30" fill="url(#orbP)" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+    <ellipse cx="243" cy="42" rx="9" ry="5" fill="#ffffff" opacity="0.85" transform="rotate(-25 243 42)"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 6; 0 -6; 0 6" dur="6.5s" repeatCount="indefinite"/>
+    <circle cx="362" cy="55" r="22" fill="url(#orbB)" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+    <ellipse cx="355" cy="48" rx="7" ry="4" fill="#ffffff" opacity="0.85" transform="rotate(-25 355 48)"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 -6; 0 8; 0 -6" dur="7.5s" repeatCount="indefinite"/>
+    <circle cx="468" cy="52" r="26" fill="url(#orbK)" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5"/>
+    <ellipse cx="460" cy="43" rx="8" ry="4.5" fill="#ffffff" opacity="0.85" transform="rotate(-25 460 43)"/>
+  </g>
+</svg>
