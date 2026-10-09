@@ -1,0 +1,83 @@
+name: Chess move
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: chess-move
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess|')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+
+      - name: Apply move
+        id: applymove
+        run: |
+          set +e
+          node scripts/chess.mjs move \
+            --issue-number "${{ github.event.issue.number }}" \
+            --issue-title "${{ github.event.issue.title }}" \
+            --issue-user "${{ github.event.issue.user.login }}" > /tmp/result.json
+          cat /tmp/result.json
+          OK=$(node -e "console.log(JSON.parse(require('fs').readFileSync('/tmp/result.json','utf8')).ok)")
+          echo "ok=$OK" >> "$GITHUB_OUTPUT"
+          MSG=$(node -e "console.log(JSON.parse(require('fs').readFileSync('/tmp/result.json','utf8')).message)")
+          {
+            echo "msg<<EOF"
+            echo "$MSG"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Commit board update
+        if: steps.applymove.outputs.ok == 'true'
+        run: |
+          git config user.name "chess-bot"
+          git config user.email "chess-bot@users.noreply.github.com"
+          git add chess.json board.svg README.md games/ 2>/dev/null || true
+          git diff --cached --quiet && echo "nothing to commit" || git commit -m "♟️ chess: ${{ github.event.issue.title }} by @${{ github.event.issue.user.login }} (#${{ github.event.issue.number }})"
+          git push
+
+      - name: Comment + close issue
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const msg = `${{ steps.applymove.outputs.msg }}` || 'Move processed.';
+            const ok = `${{ steps.applymove.outputs.ok }}` === 'true';
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `${ok ? '♟️' : '⛔'} ${msg}\n\n↩️ [Back to the board](https://github.com/${context.repo.owner}/${context.repo.repo}#-community-chess--play-me-right-here)`
+            });
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ok ? ['chess-move', 'accepted'] : ['chess-move', 'rejected']
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

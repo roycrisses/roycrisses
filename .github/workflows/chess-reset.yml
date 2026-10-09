@@ -1,0 +1,45 @@
+name: Chess reset
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: Reason shown in README banner
+        required: false
+        default: Manual reset by owner
+
+permissions:
+  contents: write
+
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm install --no-audit --no-fund
+      - name: Reset game
+        run: |
+          node -e "
+            const fs = require('fs');
+            const s = JSON.parse(fs.readFileSync('chess.json','utf8'));
+            s.gameId += 1;
+            s.fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1';
+            s.pgn = '';
+            s.turn = 'w';
+            s.lastMove = null;
+            s.status = 'ongoing';
+            s.lastResult = 'Board reset by owner (${{ inputs.reason }}). Fresh Game #' + s.gameId + ' — Visitors (White) to move!';
+            s.updatedAt = new Date().toISOString();
+            fs.writeFileSync('chess.json', JSON.stringify(s, null, 2) + '\n');
+          "
+          node scripts/chess.mjs sync
+      - run: |
+          git config user.name "chess-bot"
+          git config user.email "chess-bot@users.noreply.github.com"
+          git add chess.json board.svg README.md
+          git diff --cached --quiet && echo "nothing to commit" || git commit -m "♟️ chess: manual reset"
+          git push

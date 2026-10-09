@@ -1,0 +1,17 @@
+{
+  "gameId": 1,
+  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "pgn": "",
+  "turn": "w",
+  "lastMove": null,
+  "status": "ongoing",
+  "lastResult": null,
+  "stats": {
+    "totalMoves": 0,
+    "whiteWins": 0,
+    "blackWins": 0,
+    "draws": 0,
+    "players": {}
+  },
+  "updatedAt": "2026-10-09T03:31:18.486Z"
+}
