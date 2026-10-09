@@ -33,6 +33,15 @@
 
 ---
 
+<div align="center">
+  <a href="https://roycrisses.github.io/roycrisses/">
+    <img src="./floating-pc.svg" width="420" alt="Click the floating PC to boot KarkiOS"/>
+  </a>
+  <p><b>👆 Click the PC to boot KarkiOS, a tiny Linux-style desktop where you can explore my profile, projects and even browse the web.</b></p>
+</div>
+
+---
+
 ## 👋 About Me
 
 <table>
