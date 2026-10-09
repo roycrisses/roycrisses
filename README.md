@@ -114,22 +114,25 @@ const krishna = {
 
 ## 💎 Featured Projects
 
+*Pulled live from [github.com/roycrisses](https://github.com/roycrisses) — original repos only, forks excluded.*
+
 | Project | Description | Stack |
 |:---|:---|:---|
-| **[GitPulse](https://github.com/roycrisses)** | Gamified GitHub ranking & developer credibility platform — DevScore, tiers, challenges | ![Next.js](https://img.shields.io/badge/Next.js_15-FFFFFF?style=flat-square&logo=nextdotjs) ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=supabase) |
-| **[ClipPro](https://github.com/roycrisses)** | Cross-platform clipboard & screenshot manager with context-aware tagging | ![Tauri](https://img.shields.io/badge/Tauri_2-FFFFFF?style=flat-square&logo=tauri) ![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=rust) |
-| **[NOVAI](https://github.com/roycrisses)** | AI education company — curriculum, marketing site, and learning ladder | ![GSAP](https://img.shields.io/badge/GSAP-FFFFFF?style=flat-square&logo=greensock) ![Design](https://img.shields.io/badge/Design_System-FFFFFF?style=flat-square) |
-| **[DEV-mind](https://github.com/roycrisses/DEV-mind)** | The Prompt OS for professional developers | ![AI](https://img.shields.io/badge/AI-FFFFFF?style=flat-square&logo=anthropic) ![Prompting](https://img.shields.io/badge/Prompting-FFFFFF?style=flat-square) |
-| **[llm-context](https://github.com/roycrisses/llm-context)** | Precise context pruning for deep LLM analysis | ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python) ![CLI](https://img.shields.io/badge/CLI-FFFFFF?style=flat-square) |
-| **[AuraLabs](https://github.com/roycrisses/auralabs)** | Windows-based AI Operating System | ![AI](https://img.shields.io/badge/AI-FFFFFF?style=flat-square) ![Systems](https://img.shields.io/badge/Systems-FFFFFF?style=flat-square) |
-| **[Vulnerability-Finder](https://github.com/roycrisses/Vulnerability-Finder)** | Autonomous AI-driven security scanning engine | ![Security](https://img.shields.io/badge/Security-FFFFFF?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-FFFFFF?style=flat-square) |
+| **[Vulnerability-Finder](https://github.com/roycrisses/Vulnerability-Finder)** | Autonomous security engine bridging heuristic scanning with LLM-driven reasoning — orchestrates industry-standard tools and Claude (via Bonsai Proxy) to understand business logic, not just open ports | ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB) ![Security](https://img.shields.io/badge/Security-FFFFFF?style=flat-square) |
+| **[AI-Cyber-security](https://github.com/roycrisses/AI-Cyber-security)** | Production-grade middleware that detects, classifies, and defends against prompt-injection attacks on LLM apps — multi-layer detection, real-time scoring, sanitization, observability dashboard | ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB) ![LLM Security](https://img.shields.io/badge/LLM_Security-FFFFFF?style=flat-square) |
+| **[DEV-mind](https://github.com/roycrisses/DEV-mind)** | Open-source prompt library that makes any AI model think like a senior engineer | ![AI](https://img.shields.io/badge/AI-FFFFFF?style=flat-square&logo=anthropic&logoColor=D97757) ![Prompting](https://img.shields.io/badge/Prompting-FFFFFF?style=flat-square) |
+| **[codebasee-chat-](https://github.com/roycrisses/codebasee-chat-)** | CLI tool to chat with any codebase instantly — `pip install codebase-chat`, run it, start asking questions | ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB) ![CLI](https://img.shields.io/badge/CLI-FFFFFF?style=flat-square) |
+| **[CRDTs](https://github.com/roycrisses/CRDTs)** | Collaborative canvas/whiteboard built on Conflict-free Replicated Data Types — distributed systems + browser performance | ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=007ACC) ![CRDT](https://img.shields.io/badge/Distributed_Systems-FFFFFF?style=flat-square) |
+| **[venuev-ui-portfolio](https://github.com/roycrisses/venuev-ui-portfolio)** | Client UI/portfolio build | ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=007ACC) |
+| **[marketing-ants](https://github.com/roycrisses/marketing-ants)** | Marketing-focused build | ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=007ACC) |
+| **[gangamarketingagency](https://github.com/roycrisses/gangamarketingagency)** | Agency client site | ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E) |
 
 <div align="center">
-  <a href="https://github.com/roycrisses/DEV-mind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=DEV-mind&theme=catppuccin_latte&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=333333" />
+  <a href="https://github.com/roycrisses/Vulnerability-Finder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=Vulnerability-Finder&theme=catppuccin_latte&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=333333" />
   </a>
-  <a href="https://github.com/roycrisses/llm-context">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=llm-context&theme=catppuccin_latte&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=333333" />
+  <a href="https://github.com/roycrisses/AI-Cyber-security">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roycrisses&repo=AI-Cyber-security&theme=catppuccin_latte&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=333333" />
   </a>
 </div>
 
