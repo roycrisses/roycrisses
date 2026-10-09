@@ -1,10 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=140&section=header" width="100%"/>
+  <img src="./assets/dither-wave.svg" width="100%" alt="dither wave"/>
 </div>
 
 <div align="center">
 
 ## Hi 👋, Imma Krishna
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=70A5FD&center=true&vCenter=true&width=500&height=40&lines=AI+Educator;Builder;Developer;Just+Ship+It" alt="Typing animation"/>
+</a>
 
 **AI Educator | Builder | Developer**
 
@@ -60,7 +65,17 @@ My goal is simple: learn something new daily, and build software that lasts.
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roycrisses&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/70a5fd/roycrisses" width="100%" alt="Contribution chart"/>
+
+---
+
+### 🐍 Watch the snake eat my commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/roycrisses/roycrisses/output/github-snake-dark.svg" width="100%" alt="Snake eating my contributions"/>
+</picture>
 
 </div>
 
